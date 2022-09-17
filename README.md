@@ -31,3 +31,39 @@ Ví dụ: tôi tạo tài khoản tên bsngchithanh, thì khi người khác mu�
 **Lưu dữ liệu:**
 
 ![image](https://user-images.githubusercontent.com/82578024/190836768-955b433c-d634-46f1-a3ca-ac0be2ee2279.png)
+
+## II. TẢI MỘT FILE LÊ GITHUB ##
+
+**Lưu ý:**
+
+- Các file <10Mb có đuôi: GIF, JPEG, JPG, MOV, MP4, PNG, SVG, WEBM, CSV, DOCX, FODG, FODP, FODS, FODT, GZ, LOG, MD, ODF, ODG, ODP, ODS, ODT, PDF, PPTX, TGZ, TXT, XLS, XLSX or ZIP có thể copy dán trực tiếp vô github
+- Các file khác có đuôi khác hoặc dung lượng lớn thì chia sẽ dưới dạng đường link! nên đưa các file này lên google drive rồi chia sẽ
+
+Cấu trúc để làm điều này:
+
+```php
+![Diễn giải](đường link chia sẽ)
+```
+
+Viết cụ thể:
+
+```php
+![Ảnh nền Windows](https://user-images.githubusercontent.com/82578024/190876935-2e9b2d27-d469-4c21-b27e-775aa4b951cf.jpg)
+```
+Bấm vào nhìn trước dữ liệu ta sẽ thấy:
+
+![Ảnh nền Windows](https://user-images.githubusercontent.com/82578024/190876935-2e9b2d27-d469-4c21-b27e-775aa4b951cf.jpg)
+
+Nếu chúng ta muốn nó chỉ xuất hiện dưới dạng một link chú thích khi xuất ra dữ liệu nếu muốn xem ta bấm vào link sẽ thấy ảnh thì ta làm như sau:
+
+```php
+Bỏ dấu chấm thang phía trước đi, khi xuất dữ liệu ta sẽ thấy:
+[Ảnh nền Windows](https://user-images.githubusercontent.com/82578024/190876935-2e9b2d27-d469-4c21-b27e-775aa4b951cf.jpg)
+```
+
+[Ảnh nền Windows](https://user-images.githubusercontent.com/82578024/190876935-2e9b2d27-d469-4c21-b27e-775aa4b951cf.jpg)
+
+Hãy bấm vào link diễn giải phía trên ta sẽ thấy được ảnh nền Windows!
+
+
+
