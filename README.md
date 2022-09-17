@@ -65,5 +65,37 @@ Bỏ dấu chấm thang phía trước đi, khi xuất dữ liệu ta sẽ thấ
 
 Hãy bấm vào link diễn giải phía trên ta sẽ thấy được ảnh nền Windows!
 
+Hoặc tải file lê bằng cách:
 
+![image](https://user-images.githubusercontent.com/82578024/190877111-0c620a0e-ac12-4d80-ba4a-b2a50e78caff.png)
+![image](https://user-images.githubusercontent.com/82578024/190877139-307c41d2-a1d6-4526-9d87-02f4f758b22d.png)
+
+Sau đó chọn một file cần upload
+
+![image](https://user-images.githubusercontent.com/82578024/190877158-23c1caf7-5287-43ae-acc9-68a94756d700.png)
+
+Đã chọn một file! tải lên xong
+
+![image](https://user-images.githubusercontent.com/82578024/190877221-1ef8b24e-37e4-4337-91a7-98e30250fb58.png)
+![image](https://user-images.githubusercontent.com/82578024/190877239-bd22691e-5e0a-40b5-a378-5e3b57416cb3.png)
+
+## 3. TẠO MỘT TABLE ##
+
+Cấu trúc:
+
+```php
+|STT|CỘT 1|CỘT 2|GHI CHÚ|
+|--|--|--|--|
+|1|A1|A2|A3|
+|2|B1|B2|B3|
+```
+
+Khi xuất dữ liệu ta sẽ thấy:
+
+|STT|CỘT 1|CỘT 2|GHI CHÚ|
+|--|--|--|--|
+|1|A1|A2|A3|
+|2|B1|B2|B3|
+
+Chúng ta cũng có thể mở rộng nhiều cột và dòng!
 
