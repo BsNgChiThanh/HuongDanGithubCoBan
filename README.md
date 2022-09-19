@@ -99,3 +99,59 @@ Khi xuất dữ liệu ta sẽ thấy:
 
 Chúng ta cũng có thể mở rộng nhiều cột và dòng!
 
+## 4. MỘT SỐ KHÁC ##
+
+- In đậm:
+```php
+**In đậm**
+xuất dữ liệu ra:
+```
+
+**In đậm**
+
+- In nghiêng:
+```php
+*In nghiêng*
+xuất dữ liệu ra:
+```
+
+*In nghiêng*
+
+- Gạch ngang giữa:
+```php
+Không đồng ý ai thì gạch ngang giữa họ và tên của người đó, ví dụ:
+~~Hồ Văn A~~
+xuất dữ liệu ra:
+```
+
+~~Hồ Văn A~~
+
+## 5. CÔNG THỨC TOÁN HỌC: ##
+
+a. $x^2$
+
+```PHP
+Ta viết:
+$x^2$
+xuất dữ liệu:
+```
+
+$x^2$
+
+b. $x_i$
+
+```php
+Ta viết:
+$x_i$
+Xuất dữ liệu:
+```
+
+$x_i$
+
+
+
+
+
+
+
+
