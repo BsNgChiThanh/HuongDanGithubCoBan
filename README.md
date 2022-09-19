@@ -305,3 +305,13 @@ $\max(x)$
 $\lt \gt \le \leq \leqq \leqslant \ge \geq \geqq \geqslant \neq$
 
 $\to \rightarrow \leftarrow \Rightarrow \Leftarrow \mapsto$
+
+## 6. ĐỔI TÊN GITHUB ##
+
+![1](https://user-images.githubusercontent.com/82578024/190969214-224c3c74-f153-4ed8-abc4-e53d8ca2e499.jpg)
+![2](https://user-images.githubusercontent.com/82578024/190969251-cb8cffd5-ba9d-4580-81ab-83bbdbfed6ad.jpg)
+
+## 7. XÓA VĨNH VIỄN 1 REPOSITORIES ##
+
+
+
