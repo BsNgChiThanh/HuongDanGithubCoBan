@@ -313,5 +313,4 @@ $\to \rightarrow \leftarrow \Rightarrow \Leftarrow \mapsto$
 
 ## 7. XÓA VĨNH VIỄN 1 REPOSITORIES ##
 
-
-
+https://user-images.githubusercontent.com/82578024/190970511-428745b2-3f9b-448b-966c-06b3dfce9c47.mp4
