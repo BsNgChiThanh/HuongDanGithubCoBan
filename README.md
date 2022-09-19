@@ -148,10 +148,160 @@ Xuất dữ liệu:
 
 $x_i$
 
+c. $x^{t-1}$
 
+```php
+Cú pháp:
+$x^{t-1}$
+Xuất dữ liệu:
+```
 
+$x^{t-1}$
 
+d. $y_{i-1}$
 
+```php
+Cú pháp:
+$y_{i-1}$
+Xuất dữ liệu:
+```
 
+$y_{i-1}$
 
+e. $X^{y^{i-1}}$:
+```php
+Cú pháp:
+$X^{y^{i-1}}$
+Xuất dữ liệu:
+```
 
+$X^{y^{i-1}}$
+
+f. $X_{y_{t+1}}$:
+```php
+Cú pháp:
+$X_{y_{t+1}}$
+Xuất dữ liệu:
+```
+
+$X_{y_{t+1}}$
+
+g. $x_t^2$:
+```php
+Cú pháp
+$x_t^2$
+Xuất dữ liệu
+```
+
+$x_t^2$
+
+h. $x^2_t$
+```php
+Cú pháp:
+$x^2_t$
+Xuất dữ liệu:
+```
+
+$x^2_t$
+
+i. Một số công thức khác:
+
+```php
+$X^{t-1}_{i+1}$
+
+$\frac{x}{y}$
+
+$\frac{x-y}{x^2}$
+
+$(x+y)^2 = x^2 + 2xy + y^2$
+
+$[1 , 2, 3]$
+
+$X = \{ 1, 2, 3 \}$
+
+$(\frac{x+2}{y-1})$
+
+$\left(\frac{x+2}{y-1}\right)$
+
+$\sum_1^n$
+
+$\sum_{i=0}^\infty$
+
+$\prod$
+
+$\int$
+
+$\bigcup$
+
+$\bigcap$
+
+$\iint$
+
+$\idotsint$
+
+$\sqrt{x^2y}$
+
+$\sqrt[3]{x^3}$
+
+$\sqrt{\frac{x^2}{y}}$
+
+$\lim_{x\to 0}$
+
+$\sin (x^2+y)$
+
+$\max(x)$
+
+$\lt \gt \le \leq \leqq \leqslant \ge \geq \geqq \geqslant \neq$
+
+$\to \rightarrow \leftarrow \Rightarrow \Leftarrow \mapsto$
+```
+
+Khi xuất sữ liệu ta thấy:
+
+$X^{t-1}_{i+1}$
+
+$\frac{x}{y}$
+
+$\frac{x-y}{x^2}$
+
+$(x+y)^2 = x^2 + 2xy + y^2$
+
+$[1 , 2, 3]$
+
+$X = \{ 1, 2, 3 \}$
+
+$(\frac{x+2}{y-1})$
+
+$\left(\frac{x+2}{y-1}\right)$
+
+$\sum_1^n$
+
+$\sum_{i=0}^\infty$
+
+$\prod$
+
+$\int$
+
+$\bigcup$
+
+$\bigcap$
+
+$\iint$
+
+$\idotsint$
+
+$\sqrt{x^2y}$
+
+$\sqrt[3]{x^3}$
+
+$\sqrt{\frac{x^2}{y}}$
+
+$\lim_{x\to 0}$
+
+$\sin (x^2+y)$
+
+$\max(x)$
+
+$\lt \gt \le \leq \leqq \leqslant \ge \geq \geqq \geqslant \neq$
+
+$\to \rightarrow \leftarrow \Rightarrow \Leftarrow \mapsto$
