@@ -128,7 +128,7 @@ xuất dữ liệu ra:
 
 ## 5. CÔNG THỨC TOÁN HỌC: ##
 
-a. $x^2$
+- $x^2$
 
 ```PHP
 Ta viết:
@@ -138,7 +138,7 @@ xuất dữ liệu:
 
 $x^2$
 
-b. $x_i$
+- $x_i$
 
 ```php
 Ta viết:
@@ -148,7 +148,7 @@ Xuất dữ liệu:
 
 $x_i$
 
-c. $x^{t-1}$
+- $x^{t-1}$
 
 ```php
 Cú pháp:
@@ -158,7 +158,7 @@ Xuất dữ liệu:
 
 $x^{t-1}$
 
-d. $y_{i-1}$
+- $y_{i-1}$
 
 ```php
 Cú pháp:
@@ -168,7 +168,7 @@ Xuất dữ liệu:
 
 $y_{i-1}$
 
-e. $X^{y^{i-1}}$:
+- $X^{y^{i-1}}$:
 ```php
 Cú pháp:
 $X^{y^{i-1}}$
@@ -177,7 +177,7 @@ Xuất dữ liệu:
 
 $X^{y^{i-1}}$
 
-f. $X_{y_{t+1}}$:
+- $X_{y_{t+1}}$:
 ```php
 Cú pháp:
 $X_{y_{t+1}}$
@@ -186,7 +186,7 @@ Xuất dữ liệu:
 
 $X_{y_{t+1}}$
 
-g. $x_t^2$:
+- $x_t^2$:
 ```php
 Cú pháp
 $x_t^2$
@@ -195,7 +195,7 @@ Xuất dữ liệu
 
 $x_t^2$
 
-h. $x^2_t$
+- $x^2_t$
 ```php
 Cú pháp:
 $x^2_t$
@@ -204,107 +204,403 @@ Xuất dữ liệu:
 
 $x^2_t$
 
-i. Một số công thức khác:
+- $X^{t-1}_{i+1}$
 
 ```php
+Cú pháp:
 $X^{t-1}_{i+1}$
-
-$\frac{x}{y}$
-
-$\frac{x-y}{x^2}$
-
-$(x+y)^2 = x^2 + 2xy + y^2$
-
-$[1 , 2, 3]$
-
-$X = \{ 1, 2, 3 \}$
-
-$(\frac{x+2}{y-1})$
-
-$\left(\frac{x+2}{y-1}\right)$
-
-$\sum_1^n$
-
-$\sum_{i=0}^\infty$
-
-$\prod$
-
-$\int$
-
-$\bigcup$
-
-$\bigcap$
-
-$\iint$
-
-$\idotsint$
-
-$\sqrt{x^2y}$
-
-$\sqrt[3]{x^3}$
-
-$\sqrt{\frac{x^2}{y}}$
-
-$\lim_{x\to 0}$
-
-$\sin (x^2+y)$
-
-$\max(x)$
-
-$\lt \gt \le \leq \leqq \leqslant \ge \geq \geqq \geqslant \neq$
-
-$\to \rightarrow \leftarrow \Rightarrow \Leftarrow \mapsto$
+Xuất dữ liệu"
 ```
 
-Khi xuất sữ liệu ta thấy:
-
 $X^{t-1}_{i+1}$
+
+- $\frac{x}{y}$
+
+```php
+Cú pháp:
+$\frac{x}{y}$
+Xuất dữ liệu:
+```
 
 $\frac{x}{y}$
 
+- $\frac{x-y}{x^2}$
+
+```php
+Cú pháp:
 $\frac{x-y}{x^2}$
+Xuất dữ liệu:
+```
+
+$\frac{x-y}{x^2}$
+
+- $(x+y)^2 = x^2 + 2xy + y^2$
+
+```php
+Cú pháp:
+$(x+y)^2 = x^2 + 2xy + y^2$
+Xuất dữ liệu:
+```
 
 $(x+y)^2 = x^2 + 2xy + y^2$
 
+- $[1 , 2, 3]$
+
+```php
+Cú pháp:
 $[1 , 2, 3]$
+Xuất dữ liệu
+```
+
+$[1 , 2, 3]$
+
+- $X = \{ 1, 2, 3 \}$
+
+```php
+Cú pháp:
+$X = \{ 1, 2, 3 \}$
+Xuất dữ liệu:
+```
 
 $X = \{ 1, 2, 3 \}$
 
+- $(\frac{x+2}{y-1})$
+
+```php
+Cú pháp:
 $(\frac{x+2}{y-1})$
+Xuất dữ liệu:
+```
+
+$(\frac{x+2}{y-1})$
+
+- $\left(\frac{x+2}{y-1}\right)$
+
+```php
+Cú pháp:
+$\left(\frac{x+2}{y-1}\right)$
+Xuất dữ liệu:
+```
 
 $\left(\frac{x+2}{y-1}\right)$
 
+- $\sum_1^n$
+
+```php
+Cú pháp:
 $\sum_1^n$
+Xuất dữ liệu:
+```
+
+$\sum_1^n$
+
+- $\sum_{i=0}^\infty$
+
+```php
+Cú pháp:
+$\sum_{i=0}^\infty$
+Xuất dữ liệu:
+```
 
 $\sum_{i=0}^\infty$
 
+- $\prod$
+
+```php
+Cú pháp:
 $\prod$
+Xuất dữ liệu:
+```
+
+- $\prod$
+
+```php
+Cú pháp:
+$\prod$
+Xuất dữ liệu:
+```
+
+$\prod$
+
+- $\int$
+
+```php
+Cú pháp:
+$\int$
+Xuất dữ liệu:
+```
 
 $\int$
 
+- $\bigcup$
+
+```php
+Cú pháp:
 $\bigcup$
+Xuất dữ liệu:
+```
+
+$\bigcup$
+
+- $\bigcap$
+
+```php
+Cú pháp:
+$\bigcap$
+Xuất dữ liệu:
+```
 
 $\bigcap$
 
+- $\iint$
+
+```php
+Cú pháp:
 $\iint$
+Xuất dữ liệu:
+```
+
+$\iint$
+
+- $\idotsint$
+
+```php
+Cú pháp:
+$\idotsint$
+Xuất dữ liệu:
+```
 
 $\idotsint$
 
+- $\sqrt{x^2y}$
+
+```php
+Cú pháp:
 $\sqrt{x^2y}$
+Xuất dữ liệu:
+```
+
+$\sqrt{x^2y}$
+
+- $\sqrt[3]{x^3}$
+
+```php
+Cú pháp:
+$\sqrt[3]{x^3}$
+Xuất dữ liệu:
+```
 
 $\sqrt[3]{x^3}$
 
+- $\sqrt{\frac{x^2}{y}}$
+
+```php
+Cú pháp:
 $\sqrt{\frac{x^2}{y}}$
+Xuất dữ liệu:
+```
+
+$\sqrt{\frac{x^2}{y}}$
+
+- $\lim_{x\to 0}$
+
+```php
+Cú pháp:
+$\lim_{x\to 0}$
+Xuất dữ liệu:
+```
 
 $\lim_{x\to 0}$
 
+- $\sin (x^2+y)$
+
+```php
+Cú pháp:
 $\sin (x^2+y)$
+Xuất dữ liệu:
+```
+
+$\sin (x^2+y)$
+
+- $\max(x)$
+
+```php
+Cú pháp:
+$\max(x)$
+Xuất dữ liệu:
+```
 
 $\max(x)$
 
-$\lt \gt \le \leq \leqq \leqslant \ge \geq \geqq \geqslant \neq$
+- $\lt$
 
-$\to \rightarrow \leftarrow \Rightarrow \Leftarrow \mapsto$
+```php
+Cú pháp:
+$\lt$
+Xuất dữ liệu:
+```
+
+$\lt$
+
+- $\gt$
+
+```php
+Cú pháp:
+$\gt$
+Xuất dữ liệu:
+```
+
+$\gt$
+
+- $\le$
+
+```php
+Cú pháp:
+$\le$
+Xuất dữ liệu:
+```
+
+$\le$
+
+- $\leq$
+
+```php
+Cú pháp:
+$\leq$
+Xuất dữ liệu:
+```
+
+$\leq$
+
+- $\leqq$
+
+```php
+Cú pháp:
+$\leqq$
+Xuất dữ liệu:
+```
+
+$\leqq$
+
+- $\leqslant$
+
+```php
+Cú pháp:
+$\leqslant$
+Xuất dữ liệu:
+```
+
+$\leqslant$
+
+- $\ge$
+
+```php
+Cú pháp:
+$\ge$
+Xuất dữ liệu:
+```
+
+$\ge$
+
+- $\geq$
+
+```php
+Cú pháp:
+$\geq$
+Xuất dữ liệu:
+```
+
+$\geq$
+
+- $\geqq$
+
+```php
+Cú pháp:
+$\geqq$
+Xuất dữ liệu:
+```
+
+$\geqq$
+
+- $\geqslant$
+
+```php
+Cú pháp:
+$\geqslant$
+Xuất dữ liệu:
+```
+
+$\geqslant$
+
+- $\neq$
+
+```php
+Cú pháp:
+$\neq$
+Xuất dữ liệu:
+```
+
+$\neq$
+
+- $\to$
+
+```php
+Cú pháp:
+$\to$
+Xuất dữ liệu:
+```
+
+$\to$
+
+- $\rightarrow$
+
+```php
+Cú pháp
+$\rightarrow$
+Xuất dữ liệu:
+```
+
+$\rightarrow$
+
+- $\leftarrow$
+
+```php
+Cú pháp:
+$\leftarrow$
+Xuất dữ liệu:
+```
+
+$\leftarrow$
+
+- $\Rightarrow$
+
+```php
+Cú pháp:
+$\Rightarrow$
+Xuất dữ liệu:
+```
+
+$\Rightarrow$
+
+- $\Leftarrow$
+
+```php
+Cú pháp:
+$\Leftarrow$
+Xuất dữ liệu:
+```
+
+$\Leftarrow$
+
+- $\mapsto$
+
+```php
+Cú pháp:
+$\mapsto$
+Xuất dữ liệu:
+```
+
+$\mapsto$
 
 ## 6. ĐỔI TÊN GITHUB ##
 
