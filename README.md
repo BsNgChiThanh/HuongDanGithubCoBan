@@ -612,3 +612,11 @@ $\mapsto$
 https://user-images.githubusercontent.com/82578024/190970511-428745b2-3f9b-448b-966c-06b3dfce9c47.mp4
 
 Password là password của tài khoản Github
+
+Để thêm chủ đề cho Repositories ta làm như sau:
+
+![image](https://user-images.githubusercontent.com/82578024/191179445-a7b66dfb-6ed7-479b-86c3-1f1e1a9364ab.png)
+
+Để thêm chủ đề cho Github, nhằm mục đích người tìm kiếm dễ dàng, ta làm như sau:
+
+ ![image](https://user-images.githubusercontent.com/82578024/191179510-66c7dfd8-5cc7-4b5c-af79-8dbe3513e035.png)
