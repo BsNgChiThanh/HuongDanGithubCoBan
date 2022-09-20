@@ -620,3 +620,5 @@ Password là password của tài khoản Github
 Để thêm chủ đề cho Github, nhằm mục đích người tìm kiếm dễ dàng, ta làm như sau:
 
  ![image](https://user-images.githubusercontent.com/82578024/191179510-66c7dfd8-5cc7-4b5c-af79-8dbe3513e035.png)
+
+![image](https://user-images.githubusercontent.com/82578024/191180186-e3b98d18-d7f4-40f1-9cf5-dd8e4255a4a9.png)
