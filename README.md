@@ -4,6 +4,14 @@
 
 - Vào github.com 
 - Dùng tài khoản Office A1 hoặc hotmail để đăng ký
+- Cách tạo hotmail: [bấm vào đây](https://account.microsoft.com/account?lang=vi-vn), bấm vào tạo tài khoản ta thấy cửa sổ:
+
+![image](https://user-images.githubusercontent.com/82578024/199685280-21bb370d-777e-4996-a723-dd9e5e03a9d8.png)
+
+Bấm vào tên tài khoản mà mình thích, ví dụ tôi đánh taotaikhoandemo@hotmail.com
+
+![image](https://user-images.githubusercontent.com/82578024/199685732-31366e6c-e9c0-4560-9a1d-7bac48cb0eef.png) làm theo đề xuất, ta có được tài khoản hotmail.com, dùng nó để đăng ký github.
+
 - Lưu ý tên đăng ký phải dễ nhớ, dễ ghi
 
 Ví dụ: tôi tạo tài khoản tên bsngchithanh, thì khi người khác muốn xem nội dung của mình chỉ đánh github.com/bsngchithanh là xong!
