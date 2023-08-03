@@ -614,6 +614,13 @@ Xuất dữ liệu:
 
 $\mapsto$
 
+```php
+$\sqrt{\frac{y}{z}}$
+```
+Xuất dữ liệu:
+
+$\sqrt{\frac{y}{z}}$
+
 ## 6. ĐỔI TÊN GITHUB ##
 
 ![1](https://user-images.githubusercontent.com/82578024/190969214-224c3c74-f153-4ed8-abc4-e53d8ca2e499.jpg)
