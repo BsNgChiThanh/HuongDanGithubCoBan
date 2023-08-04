@@ -621,6 +621,26 @@ Xuất dữ liệu:
 
 $\sqrt{\frac{y}{z}}$
 
+```php
+$\alpha$
+```
+Xuất dữ liệu: $\alpha$
+
+```php
+$\beta$
+```
+Xuất dữ liệu: $\beta$
+
+```php
+$\gamma$
+```
+Xuất dữ liệu: $\gamma$
+
+```php
+$\delta$
+```
+Xuất dữ liệu: $\delta$
+
 ## 6. ĐỔI TÊN GITHUB ##
 
 ![1](https://user-images.githubusercontent.com/82578024/190969214-224c3c74-f153-4ed8-abc4-e53d8ca2e499.jpg)
